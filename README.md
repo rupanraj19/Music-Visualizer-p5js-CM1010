@@ -1,6 +1,13 @@
 ## Screenshots
 ![1](images/1.png)
 
+<h3>Screenshots</h3>
+<div style="display: flex; flex-wrap: nowrap; justify-content: center;">
+  <img src="images/1.png" alt="Image 1" style="width: 300px; height: 200px; object-fit: cover; margin: 10px;">
+  <img src="images/2.png" alt="Image 2" style="width: 300px; height: 200px; object-fit: cover; margin: 10px;">
+  <img src="images/3.png" alt="Image 3" style="width: 300px; height: 200px; object-fit: cover; margin: 10px;">
+</div>
+
 ## Case study 3: Audio visualiser
 
 In this case study you will be completing a simple music visualisation
