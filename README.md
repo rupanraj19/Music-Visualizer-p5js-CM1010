@@ -1,3 +1,9 @@
+<video width="320" height="240" controls>
+  <source src="video.mkv" type="video/mkv">
+
+</video>
+
+
 ## Case study 3: Audio visualiser
 
 In this case study you will be completing a simple music visualisation
