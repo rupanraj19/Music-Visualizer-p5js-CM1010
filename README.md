@@ -1,5 +1,5 @@
 ## Video
-![Video](video.mkv)
+![Video](video.mp4)
 
 ## Case study 3: Audio visualiser
 
