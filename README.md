@@ -1,11 +1,14 @@
-## Screenshots
-![1](images/1.png)
 
 <h3>Screenshots</h3>
 <div style="display: flex; flex-wrap: nowrap; justify-content: center;">
-  <img src="images/1.png" alt="Image 1" style="width: 300px; height: 200px; object-fit: cover; margin: 10px;">
-  <img src="images/2.png" alt="Image 2" style="width: 300px; height: 200px; object-fit: cover; margin: 10px;">
-  <img src="images/3.png" alt="Image 3" style="width: 300px; height: 200px; object-fit: cover; margin: 10px;">
+  <img src="images/1.png" alt="Image 1" style="width: 200px; height: 150px; object-fit: cover; margin: 10px;">
+  <img src="images/2.png" alt="Image 2" style="width: 200px; height: 150px; object-fit: cover; margin: 10px;">
+  <img src="images/3.png" alt="Image 3" style="width: 200px; height: 150px; object-fit: cover; margin: 10px;">
+  <img src="images/4.png" alt="Image 3" style="width: 200px; height: 150px; object-fit: cover; margin: 10px;">
+  <img src="images/5.png" alt="Image 3" style="width: 200px; height: 150px; object-fit: cover; margin: 10px;">
+  <img src="images/6.png" alt="Image 3" style="width: 200px; height: 150px; object-fit: cover; margin: 10px;">
+  <img src="images/7.png" alt="Image 3" style="width: 200px; height: 150px; object-fit: cover; margin: 10px;">
+  <img src="images/8.png" alt="Image 3" style="width: 200px; height: 150px; object-fit: cover; margin: 10px;">
 </div>
 
 ## Case study 3: Audio visualiser
