@@ -1,0 +1,40 @@
+/* <!-- ------------------Inline CSS to remove body padding and margin---------------------------- --> */
+
+body {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+/* Increase font size and padding */
+select {
+  font-size: 16px;
+  padding: 5px;
+  margin-top: 8px;;
+
+}
+
+/* Customize background, border, and text color */
+select {
+  background-color: #020000;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  color: #f8f3f3;
+
+}
+
+/* Style the button */
+.FileInput {
+  font-size: 16px; 
+  background-color: #0e0f11; /* Button background color */
+  color: #fff; /* Button text color */
+  border: none;
+  cursor: pointer;
+  padding: 10px 20px; 
+  position: absolute;
+  left: 10px;
+}
+
+
+
+
