@@ -1,5 +1,5 @@
 ## Screenshots
-
+![1](images/1.png)
 
 ## Case study 3: Audio visualiser
 
