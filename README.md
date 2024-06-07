@@ -1,6 +1,5 @@
-<video width="320" height="240" controls>
-  <source src="video.mkv" type="video/mkv">
-
+<video width="640" height="480" controls>
+  <source src="video.mkv" type="video/x-matroska">
 </video>
 
 
