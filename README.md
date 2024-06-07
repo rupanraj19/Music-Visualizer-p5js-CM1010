@@ -1,5 +1,5 @@
-## Video
-![Video](video.mp4)
+## Screenshots
+
 
 ## Case study 3: Audio visualiser
 
